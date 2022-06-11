@@ -21,7 +21,7 @@ const noteSchema = mongoose.Schema({
   },
   staffId: {
     type: String
-  },
+  }
 },
 {
   timestamps: true
